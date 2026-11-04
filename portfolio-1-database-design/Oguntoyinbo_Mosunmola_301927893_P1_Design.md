@@ -1,4 +1,4 @@
-# Library Borrowing System Database Design
+
 Ride and Parcel Dispatch Service Database Design
 1. Entities — what the database keeps records of
 I use six entities:
